@@ -1,4 +1,5 @@
-# Simple-Regression- Read data from file
+# Simple-Regression-
+Read data from file
 Analyse the data
 Split the data
 Create regressior
